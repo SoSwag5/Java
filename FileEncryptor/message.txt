@@ -1,0 +1,21 @@
+
+Encrypted Message: <etDuTwiNqWa1t6Ww9N8gRbrPYzMWr1bDMA==>
+Key: <LXzmyzCgdSo4CMOQWKIrGg==>
+IV: <nZX3gNpj4j+SWZ/u>
+Date: 18-4-2025
+
+Encrypted Message: <BPuY3Kbm8Dp0XdH+N6omsK5COv86x7M08w==> 
+Key: <6PGgLDOGc2US67jSO3c28Q==>
+IV: <6et6lNgZ9ZlinV0G>
+Date: 18-4-2025
+
+Encrypted Message: <TgfvAvCyzRC8FpEvaRTyoEOyHeVOlw==>
+Key: <lv6Lbh1kRLtF4Wz6VpMUUw==>
+IV: <X8SlqSJgwU4J8IMS>
+Date: 22-4-2025
+
+Encrypted Message: <ektQY75Mtz3p9vyMSode5WeSIItT>
+Key: <iPMrX7tfauWuwyLTJxG51g==>
+IV: <YQ1T0IrVMXljg6V3>
+Date: 22-4-2025
+
